@@ -1,6 +1,7 @@
 :: This Batch File fetches All the Details of the Nearby PC's of Same VLAN (Upto 254 host's).
 :: Windows OS
 :: Dated: 8th March 2017.
+:: Author : M.S.Arun
 
 :: #****************************************************************** Start of Script ********************************************************************#
 
